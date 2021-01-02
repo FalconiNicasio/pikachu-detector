@@ -3,8 +3,8 @@ matplotlib==3.2.2
 mxnet-cu101==1.7.0
 Pillow==7.0.0
 requests==2.23.0
-skimage==0.16.2
+scikit-image==0.16.2
 torch==1.7.0+cu101
 torchvision==0.8.1+cu101
-torchsummary
+torchsummary==1.5.1
 tqdm==4.41.1
