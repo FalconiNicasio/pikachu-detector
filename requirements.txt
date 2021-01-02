@@ -1,7 +1,7 @@
 numpy==1.19.4
 matplotlib==3.2.2
 mxnet-cu101==1.7.0
-PIL==7.0.0
+Pillow==7.0.0
 requests==2.23.0
 skimage==0.16.2
 torch==1.7.0+cu101
