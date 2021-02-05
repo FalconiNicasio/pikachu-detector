@@ -1,6 +1,6 @@
 # pikachu-detector
 
-This project was part of my Independent Study at Indiana University during my Master's program in Data Science. The goal of this was to learn the inner workings of object detection at a deeper level in order to understand all the moving parts it takes to build an object detector from scratch.
+This project was part of my Independent Study at Indiana University during my Master's program in Data Science. The goal of this was to learn the inner workings of object detection at a deeper level in order to understand all the moving parts it takes to build an object detector from scratch. Please see the notebook for more in-depth look at the work.
 
 ## Summary
 
